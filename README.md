@@ -1,5 +1,5 @@
 ```markdown
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+
 
 # Thiago Marinho
 
@@ -7,7 +7,7 @@
 Sou apaixonado por frontend
 Sou um estudante de sistemas para internet :computer:
 
- t*
+ 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end html,css e js.
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout.
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, fotografia, artes, cinema e quadrinhos
