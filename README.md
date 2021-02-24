@@ -1,8 +1,7 @@
 
-
 ## Olá pessoal 👋
 Sou apaixonado por frontend
-Sou um estudante de sistemas para internet :computer:
+<br/>Sou um estudante de sistemas para internet :computer:
 
  
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end html,css e js.
