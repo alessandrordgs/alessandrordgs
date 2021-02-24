@@ -1,7 +1,4 @@
-```markdown
 
-
-# Thiago Marinho
 
 ## Olá pessoal 👋
 Sou apaixonado por frontend
