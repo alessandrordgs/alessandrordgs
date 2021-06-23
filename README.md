@@ -1,15 +1,14 @@
 
 
-## Olá pessoal 👋	
+## Olá 👋	
 Sou apaixonado por frontend	
 <br/>Sou um estudante de sistemas para internet :computer:	
 
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end html,css e js.	
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout.	
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, fotografia, artes, cinema e quadrinhos	
- <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/alessandrorodrigues2134/	
- <br/> :email: &nbsp; Ou pelo meu email ale.silva1120@gmail.com	
+ <br/> :blush: &nbsp; Posso te ajudar com html, css, js, react .	
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, fotografia, artes, cinema e quadrinhos	
+ <br/> :email: &nbsp; Entre em contato comigo pelo meu email ale.silva1120@gmail.com	
  
  ![Alessandro Rodrigues Status](https://github-readme-stats.vercel.app/api?username=alessandrordgs&show_icons=true&theme=synthwave)
 ```
