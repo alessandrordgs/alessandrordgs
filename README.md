@@ -11,5 +11,5 @@ Sou apaixonado por frontend
  <br/> :email: &nbsp; Entre em contato comigo: https://www.linkedin.com/in/alessandrorodrigues2134/	
  <br/> :email: &nbsp; Ou pelo meu email ale.silva1120@gmail.com	
  
- ![Alessandro Rodrigues Status](https://github-readme-stats.vercel.app/api?username=alessandrordgs&show_icons=true)
+ ![Alessandro Rodrigues Status](https://github-readme-stats.vercel.app/api?username=alessandrordgs&show_icons=true&theme=synthwave)
 ```
