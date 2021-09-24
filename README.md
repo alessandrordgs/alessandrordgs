@@ -3,8 +3,6 @@
 ## Olá 👋	
 Sou apaixonado por frontend	
 <br/>Sou um estudante de sistemas para internet :computer:	
-
-
  <br/> :purple_heart: &nbsp; React & Node.js.	
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, fotografia, artes, cinema e quadrinhos	
  <br/> :email: &nbsp; Entre em contato comigo pelo meu email ale.silva1120@gmail.com	
