@@ -2,7 +2,7 @@
 
 ## Olá 👋	
  <br> Você pode encontrar outras informações no meu portfolio https://alessandrordgs.tech
- <br/>Sou estudante de sistemas para internet - 4º semestre :computer:	
+ <br/>Sou estudante de sistemas para internet - 5º semestre :computer:	
  <br/> :purple_heart: &nbsp; FullStack JS .	
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, fotografia, artes, cinema e quadrinhos	
  <br/> :email: &nbsp; Entre em contato comigo pelo meu email ale.silva1120@gmail.com	
