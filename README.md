@@ -1,13 +1,11 @@
+## Olá, meu nome é Alessandro 👋
 
+Desenvolvedor JavaScript especializado em front-end, com habilidades sólidas em back-end, incluindo PHP e Rust, além de experiência em Cloud Computing
 
-## Olá 👋	
- <br> Você pode encontrar outras informações no meu portfolio https://alessandrordgs.tech
- <br/>Sou estudante de sistemas para internet - 5º semestre :computer:	
- <br/> :purple_heart: &nbsp; FullStack JS .	
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, fotografia, artes, cinema e quadrinhos	
- <br/> :email: &nbsp; Entre em contato comigo pelo meu email ale.silva1120@gmail.com	
- 
- 
- ![Alessandro Rodrigues Status](https://github-readme-stats.vercel.app/api?username=alessandrordgs&show_icons=true&theme=synthwave)
+## Conhecimentos
+
+- :computer: Front-end: React, Nextjs e Vue.
+- :computer: Back-end: PHP, Rust e NodeJs.
+- :computer: Cloud Computing e arquiteturas de sistemas .
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrordgs&layout=compact&langs_count=16&theme=chartreuse-dark"/>
-```
