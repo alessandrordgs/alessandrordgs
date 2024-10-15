@@ -9,3 +9,6 @@ Desenvolvedor JavaScript especializado em front-end, com habilidades sólidas em
 - :computer: Cloud Computing e arquiteturas de sistemas .
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrordgs&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+
+
+[![An image of @alessandrordgs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alessandrordgs)](https://holopin.io/@alessandrordgs)
