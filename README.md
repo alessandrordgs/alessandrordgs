@@ -50,12 +50,6 @@ Gera colagens de pôsteres de filmes a partir do perfil do Letterboxd, com web s
 **[tiny-url](https://github.com/alessandrordgs/tiny-url)**
 Encurtador de URLs com gerenciamento de links e estatísticas de acesso. Construído com NestJS, TypeORM e PostgreSQL.
 
-### Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrordgs&layout=compact&langs_count=16&theme=chartreuse-dark"/>
-
-[![Holopin badges](https://holopin.me/alessandrordgs)](https://holopin.io/@alessandrordgs)
-
 ---
 
 <a name="english"></a>
@@ -101,9 +95,3 @@ Generates movie poster collages from a Letterboxd user profile, using web scrapi
 
 **[tiny-url](https://github.com/alessandrordgs/tiny-url)**
 URL shortener with link management and access statistics. Built with NestJS, TypeORM and PostgreSQL.
-
-### Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrordgs&layout=compact&langs_count=16&theme=chartreuse-dark"/>
-
-[![Holopin badges](https://holopin.me/alessandrordgs)](https://holopin.io/@alessandrordgs)
