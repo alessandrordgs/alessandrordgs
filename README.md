@@ -1,14 +1,55 @@
-## Olá, meu nome é Alessandro 👋
+## Olá, sou Alessandro 👋
 
-Desenvolvedor JavaScript especializado em front-end, com habilidades sólidas em back-end, incluindo PHP e Rust, além de experiência em Cloud Computing
+Engenheiro de Software com experiência em desenvolvimento full stack. Especializado em React, Node.js, TypeScript e arquiteturas modernas. Atualmente na Squadfy, trabalhando com NestJS, Next.js e IA Generativa.
 
-## Conhecimentos
+📍 Macapá, Amapá, BR &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandrordgs)
 
-- :computer: Front-end: React, Nextjs e Vue.
-- :computer: Back-end: PHP, Rust e NodeJs.
-- :computer: Cloud Computing e arquiteturas de sistemas .
+---
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrordgs&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+## Tecnologias
 
+**Front-end**
 
-[![An image of @alessandrordgs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alessandrordgs)](https://holopin.io/@alessandrordgs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Back-end**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+---
+
+## Projetos em Destaque
+
+### [letterboxd-collage](https://github.com/alessandrordgs/letterboxd-collage)
+Gera colagens de pôsteres de filmes a partir do perfil do Letterboxd, com web scraping feito em Next.js.
+
+### [tiny-url](https://github.com/alessandrordgs/tiny-url)
+Encurtador de URLs com gerenciamento de links e estatísticas de acesso. Construído com NestJS, TypeORM e PostgreSQL.
+
+---
+
+## Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrordgs&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+
+---
+
+[![Holopin badges](https://holopin.me/alessandrordgs)](https://holopin.io/@alessandrordgs)
